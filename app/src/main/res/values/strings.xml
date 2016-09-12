@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Encoder</string>
+    <string-array name="spinner_array">
+        <item>Encode</item>
+        <item>Decode</item>
+    </string-array>
+    <string name="copy">Copy to Clipboard</string>
+    <string name="key">Pick Key</string>
+    <string name="Encode">Encode</string>
+    <string name="Decode">Decode</string>
+    <string name="noTextEntered">Please enter text to be encoded/decoded</string>
+    <string name="noKeySelected">Enter a keyword</string>
+    <string name="keyHint">Enter Key</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="noInput">No input</string>
+</resources>
